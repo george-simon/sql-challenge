@@ -10,8 +10,8 @@ CREATE TABLE IF NOT EXISTS departments
 
 CREATE TABLE IF NOT EXISTS dept_manager
 (
-    emp_id INTEGER NOT NULL,
     dept_no VARCHAR(20) NOT NULL,
+    emp_id INTEGER NOT NULL,
     PRIMARY KEY(emp_id, dept_no)
 );
 
