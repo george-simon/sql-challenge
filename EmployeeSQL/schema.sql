@@ -87,6 +87,6 @@ ALTER TABLE dept_manager
     MATCH SIMPLE
 ;
   
--- csv import order: departments, dept_manger, salaries, dept_emp, employees, titles
+-- csv import order: departments, titles, employees, salaries, dept_manger, dept_emp
 -- Create Indexes
 
