@@ -8,5 +8,14 @@ I was tasked to perform research on employee data for a corporation from the 198
 ### Challenge
 Design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data by performing the following tasks.
 1. Data Modeling
-1. Data Engineering
+1. Data Engineering 
 1. Data Analysis
+
+### Data Model
+![Data Model 1](/EmployeeSQL/Database_ERD_diagram.png)
+
+### Data Engineering
+See *schema.sql* file
+
+### Analysis
+See *query.sql* file
